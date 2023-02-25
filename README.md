@@ -13,3 +13,5 @@ Player is starting with a cannon that has a limited number of bullets that can b
 <p allign="center">
   <img src="https://user-images.githubusercontent.com/46852756/221370229-3f5d18fb-a81e-4374-98fb-c22bb2aa02f3.gif">
 </p>
+
+Graphics of the castle and enemies were drawn for me by a friend who agreed that I use them for this project.
